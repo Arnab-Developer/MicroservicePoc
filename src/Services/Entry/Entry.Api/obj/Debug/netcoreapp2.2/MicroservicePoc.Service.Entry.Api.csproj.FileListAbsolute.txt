@@ -1,0 +1,14 @@
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.deps.json
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.runtimeconfig.json
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.runtimeconfig.dev.json
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.dll
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.pdb
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.csprojAssemblyReference.cache
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.RazorAssemblyInfo.cache
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.RazorAssemblyInfo.cs
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.AssemblyInfoInputs.cache
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.AssemblyInfo.cs
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.dll
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\Services\Entry\Entry.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.pdb

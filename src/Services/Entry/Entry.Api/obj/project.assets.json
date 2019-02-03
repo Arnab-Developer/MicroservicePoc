@@ -12078,9 +12078,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\Services\\Entry\\Entry.Api\\Entry.Api.csproj",
-      "projectName": "Entry.Api",
-      "projectPath": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\Services\\Entry\\Entry.Api\\Entry.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\Services\\Entry\\Entry.Api\\MicroservicePoc.Service.Entry.Api.csproj",
+      "projectName": "MicroservicePoc.Service.Entry.Api",
+      "projectPath": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\Services\\Entry\\Entry.Api\\MicroservicePoc.Service.Entry.Api.csproj",
       "packagesPath": "C:\\Users\\Arnab\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\Services\\Entry\\Entry.Api\\obj\\",
       "projectStyle": "PackageReference",

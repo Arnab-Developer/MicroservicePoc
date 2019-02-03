@@ -7,6 +7,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace MicroservicePoc.Service.Entry.Api.Controllers
 {
+    [Route("api/[controller]")]
+    [ApiController]
     public class EntryController : ControllerBase
     {
         private EntryContext _context;
