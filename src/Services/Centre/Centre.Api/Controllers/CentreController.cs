@@ -63,7 +63,7 @@ namespace Centre.Api.Controllers
         }
 
         [Route("remove")]
-        [HttpPost]
+        [HttpDelete]
         public ActionResult Remove(CentreItem centre)
         {
             return PerformCrud(centre, EntityState.Deleted);

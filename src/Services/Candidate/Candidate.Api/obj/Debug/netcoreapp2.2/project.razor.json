@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Arnab\\OneDrive\\Codes\\InterchangePoc\\src\\Services\\Candidate\\Candidate.Api\\Candidate.Api.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}

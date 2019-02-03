@@ -28,8 +28,8 @@ namespace Centre.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-            var connectionString = @"Server=(local);Database=InterchangePoc;Trusted_Connection=True;";
-            services.AddDbContext<CentreContext>(option => option.UseSqlServer(connectionString));
+            //var connectionString = @"Server=(local);Database=InterchangePoc;Trusted_Connection=True;";
+            services.AddDbContext<CentreContext>(option => option.UseInMemoryDatabase("InterchangePoc"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
