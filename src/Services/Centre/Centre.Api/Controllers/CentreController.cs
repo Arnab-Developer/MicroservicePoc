@@ -1,11 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
-using Centre.Api.Models;
-using Centre.Api.Data;
+using MicroservicePoc.Service.Centre.Api.Models;
+using MicroservicePoc.Service.Centre.Api.Data;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 
-namespace Centre.Api.Controllers
+namespace MicroservicePoc.Service.Centre.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

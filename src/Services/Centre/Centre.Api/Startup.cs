@@ -11,9 +11,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.EntityFrameworkCore;
-using Centre.Api.Data;
+using MicroservicePoc.Service.Centre.Api.Data;
 
-namespace Centre.Api
+namespace MicroservicePoc.Service.Centre.Api
 {
     public class Startup
     {
@@ -29,7 +29,7 @@ namespace Centre.Api
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             //var connectionString = @"Server=(local);Database=InterchangePoc;Trusted_Connection=True;";
-            services.AddDbContext<CentreContext>(option => option.UseInMemoryDatabase("InterchangePoc"));
+            services.AddDbContext<CentreContext>(option => option.UseInMemoryDatabase("MicroservicePocCentre"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

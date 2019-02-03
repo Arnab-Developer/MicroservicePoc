@@ -1,4 +1,4 @@
-namespace Candidate.Api.Models
+namespace MicroservicePoc.Service.Candidate.Api.Models
 {
     public class CandidateItem
     {

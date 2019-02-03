@@ -1,4 +1,4 @@
-namespace Centre.Api.Models
+namespace MicroservicePoc.Service.Centre.Api.Models
 {
     public class CentreItem
     {

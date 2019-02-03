@@ -11,9 +11,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.EntityFrameworkCore;
-using Candidate.Api.Data;
+using MicroservicePoc.Service.Candidate.Api.Data;
 
-namespace Candidate.Api
+namespace MicroservicePoc.Service.Candidate.Api
 {
     public class Startup
     {
@@ -28,7 +28,7 @@ namespace Candidate.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-            services.AddDbContext<CandidateContext>(option => option.UseInMemoryDatabase("InterchangePocCandidate"));
+            services.AddDbContext<CandidateContext>(option => option.UseInMemoryDatabase("MicroservicePocCandidate"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

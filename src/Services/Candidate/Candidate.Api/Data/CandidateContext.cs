@@ -1,7 +1,7 @@
-using Candidate.Api.Models;
+using MicroservicePoc.Service.Candidate.Api.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Candidate.Api.Data
+namespace MicroservicePoc.Service.Candidate.Api.Data
 {
     public class CandidateContext : DbContext
     {

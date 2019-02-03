@@ -1,8 +1,8 @@
-using Centre.Api;
-using Centre.Api.Models;
+using MicroservicePoc.Service.Centre.Api;
+using MicroservicePoc.Service.Centre.Api.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Centre.Api.Data
+namespace MicroservicePoc.Service.Centre.Api.Data
 {
     public class CentreContext : DbContext
     {

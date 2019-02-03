@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arnab\\OneDrive\\Codes\\InterchangePoc\\src\\Services\\Candidate\\Candidate.Api\\Candidate.Api.csproj",
-      "projectName": "Candidate.Api",
-      "projectPath": "C:\\Users\\Arnab\\OneDrive\\Codes\\InterchangePoc\\src\\Services\\Candidate\\Candidate.Api\\Candidate.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\services\\candidate\\candidate.api\\MicroservicePoc.Service.candidate.api.csproj",
+      "projectName": "MicroservicePoc.Service.candidate.api",
+      "projectPath": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\services\\candidate\\candidate.api\\MicroservicePoc.Service.candidate.api.csproj",
       "packagesPath": "C:\\Users\\Arnab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arnab\\OneDrive\\Codes\\InterchangePoc\\src\\Services\\Candidate\\Candidate.Api\\obj\\",
+      "outputPath": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\services\\candidate\\candidate.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

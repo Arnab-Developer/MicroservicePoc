@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arnab\\OneDrive\\Codes\\InterchangePoc\\src\\Services\\Centre\\centre.api\\centre.api.csproj",
-      "projectName": "centre.api",
-      "projectPath": "C:\\Users\\Arnab\\OneDrive\\Codes\\InterchangePoc\\src\\Services\\Centre\\centre.api\\centre.api.csproj",
+      "projectUniqueName": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\services\\centre\\centre.api\\MicroservicePoc.Service.centre.api.csproj",
+      "projectName": "MicroservicePoc.Service.centre.api",
+      "projectPath": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\services\\centre\\centre.api\\MicroservicePoc.Service.centre.api.csproj",
       "packagesPath": "C:\\Users\\Arnab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arnab\\OneDrive\\Codes\\InterchangePoc\\src\\Services\\Centre\\centre.api\\obj\\",
+      "outputPath": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\services\\centre\\centre.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
