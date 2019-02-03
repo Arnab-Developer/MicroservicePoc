@@ -11,3 +11,4 @@ C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\services\centre\centre.api\obj
 C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\services\centre\centre.api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.centre.api.RazorTargetAssemblyInfo.cache
 C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\services\centre\centre.api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.centre.api.dll
 C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\services\centre\centre.api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.centre.api.pdb
+C:\Users\Arnab\OneDrive\Codes\MicroservicePoc\src\services\centre\centre.api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.centre.api.csprojAssemblyReference.cache
