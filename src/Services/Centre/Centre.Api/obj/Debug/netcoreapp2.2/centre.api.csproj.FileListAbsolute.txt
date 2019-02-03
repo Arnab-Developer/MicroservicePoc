@@ -1,0 +1,14 @@
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\bin\Debug\netcoreapp2.2\centre.api.deps.json
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\bin\Debug\netcoreapp2.2\centre.api.runtimeconfig.json
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\bin\Debug\netcoreapp2.2\centre.api.runtimeconfig.dev.json
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\bin\Debug\netcoreapp2.2\centre.api.dll
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\bin\Debug\netcoreapp2.2\centre.api.pdb
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\obj\Debug\netcoreapp2.2\centre.api.csprojAssemblyReference.cache
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\obj\Debug\netcoreapp2.2\centre.api.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\obj\Debug\netcoreapp2.2\centre.api.RazorAssemblyInfo.cache
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\obj\Debug\netcoreapp2.2\centre.api.RazorAssemblyInfo.cs
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\obj\Debug\netcoreapp2.2\centre.api.AssemblyInfoInputs.cache
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\obj\Debug\netcoreapp2.2\centre.api.AssemblyInfo.cs
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\obj\Debug\netcoreapp2.2\centre.api.RazorTargetAssemblyInfo.cache
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\obj\Debug\netcoreapp2.2\centre.api.dll
+C:\Users\Arnab\OneDrive\Codes\InterchangePoc\src\Services\Centre\centre.api\obj\Debug\netcoreapp2.2\centre.api.pdb
