@@ -1,0 +1,14 @@
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.RazorAssemblyInfo.cache
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.RazorAssemblyInfo.cs
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.AssemblyInfo.cs
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.deps.json
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.runtimeconfig.json
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.dll
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.pdb
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.dll
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Subject\Subject.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Subject.Api.pdb

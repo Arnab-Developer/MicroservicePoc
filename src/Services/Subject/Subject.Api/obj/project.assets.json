@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arnab\\Documents\\MicroservicePoc\\src\\Services\\Subject\\Subject.csproj",
-      "projectName": "Subject",
-      "projectPath": "C:\\Users\\Arnab\\Documents\\MicroservicePoc\\src\\Services\\Subject\\Subject.csproj",
+      "projectUniqueName": "C:\\Users\\Arnab\\Documents\\MicroservicePoc\\src\\Services\\Subject\\Subject.Api\\MicroservicePoc.Service.Subject.Api.csproj",
+      "projectName": "MicroservicePoc.Service.Subject.Api",
+      "projectPath": "C:\\Users\\Arnab\\Documents\\MicroservicePoc\\src\\Services\\Subject\\Subject.Api\\MicroservicePoc.Service.Subject.Api.csproj",
       "packagesPath": "C:\\Users\\Arnab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arnab\\Documents\\MicroservicePoc\\src\\Services\\Subject\\obj\\",
+      "outputPath": "C:\\Users\\Arnab\\Documents\\MicroservicePoc\\src\\Services\\Subject\\Subject.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -2,16 +2,18 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using MicroservicePoc.Service.Subject.Api.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace Subject
+namespace MicroservicePoc.Service.Subject.Api
 {
     public class Startup
     {
@@ -26,6 +28,7 @@ namespace Subject
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddDbContext<SubjectContext>(option => option.UseInMemoryDatabase("MicroservicePocSubject"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
