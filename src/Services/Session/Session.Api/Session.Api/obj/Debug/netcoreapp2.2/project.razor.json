@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Arnab\\Documents\\MicroservicePoc\\src\\Services\\Session\\Session.Api\\Session.Api\\MicroservicePoc.Service.Session.Api.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}

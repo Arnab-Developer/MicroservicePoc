@@ -1,0 +1,14 @@
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.deps.json
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.runtimeconfig.json
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.dll
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.pdb
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.RazorAssemblyInfo.cache
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.RazorAssemblyInfo.cs
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.AssemblyInfo.cs
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.dll
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Session\Session.Api\Session.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Session.Api.pdb
