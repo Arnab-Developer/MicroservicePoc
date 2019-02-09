@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\Services\\Entry\\Entry.Api\\MicroservicePoc.Service.Entry.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Arnab\\Documents\\MicroservicePoc\\src\\Services\\Entry\\entry.api\\MicroservicePoc.Service.Entry.Api.csproj",
       "projectName": "MicroservicePoc.Service.Entry.Api",
-      "projectPath": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\Services\\Entry\\Entry.Api\\MicroservicePoc.Service.Entry.Api.csproj",
+      "projectPath": "C:\\Users\\Arnab\\Documents\\MicroservicePoc\\src\\Services\\Entry\\entry.api\\MicroservicePoc.Service.Entry.Api.csproj",
       "packagesPath": "C:\\Users\\Arnab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arnab\\OneDrive\\Codes\\MicroservicePoc\\src\\Services\\Entry\\Entry.Api\\obj\\",
+      "outputPath": "C:\\Users\\Arnab\\Documents\\MicroservicePoc\\src\\Services\\Entry\\entry.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
