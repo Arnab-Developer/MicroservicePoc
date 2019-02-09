@@ -1,10 +1,12 @@
-﻿using MicroservicePoc.Service.Entry.Api.Data;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
+using MicroservicePoc.Service.Entry.Infrastructure;
+using MicroservicePoc.Service.Entry.Infrastructure.Repositories;
+using MicroservicePoc.Service.Entry.Domain;
 
 namespace MicroservicePoc.Service.Entry.Api
 {
@@ -21,6 +23,7 @@ namespace MicroservicePoc.Service.Entry.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddTransient<IEntryRepository, EntryRepository>();
             services.AddDbContext<EntryContext>(option => option.UseInMemoryDatabase("MicroservicePocEntry"));
         }
 

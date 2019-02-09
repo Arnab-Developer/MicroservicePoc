@@ -26,3 +26,8 @@ C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\entry.api\obj\Debug\
 C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\entry.api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.RazorTargetAssemblyInfo.cache
 C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\entry.api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.dll
 C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\entry.api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.pdb
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Domain.dll
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Infrastructure.dll
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Domain.pdb
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Api\bin\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Infrastructure.pdb
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Api\obj\Debug\netcoreapp2.2\MicroservicePoc.Service.Entry.Api.csproj.CopyComplete

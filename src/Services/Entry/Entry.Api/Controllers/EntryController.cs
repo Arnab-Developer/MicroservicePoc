@@ -1,9 +1,10 @@
 using System.Collections.Generic;
-using MicroservicePoc.Service.Entry.Api.Data;
-using MicroservicePoc.Service.Entry.Api.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
+using MicroservicePoc.Service.Entry.Domain;
+using MicroservicePoc.Service.Entry.Infrastructure;
+using MicroservicePoc.Service.Entry.Api.ViewModels;
 
 namespace MicroservicePoc.Service.Entry.Api.Controllers
 {
@@ -11,56 +12,71 @@ namespace MicroservicePoc.Service.Entry.Api.Controllers
     [ApiController]
     public class EntryController : ControllerBase
     {
-        private EntryContext _context;
+        private IEntryRepository _repository;
 
-        public EntryController(EntryContext context)
+        public EntryController(IEntryRepository repository)
         {
-            _context = context;    
-        }
-
-        [Route("get")]
-        [HttpGet]
-        public ActionResult<IList<EntryItem>> GetAll()
-        {
-            return _context.Entries
-                .OrderByDescending(e => e.CreationDate)
-                .ToList();
+            _repository = repository;
         }
 
         [Route("get/{id:int}")]
         [HttpGet]
         public ActionResult<EntryItem> GetById(int id)
         {
-            return _context.Entries
-                .Single(c => c.Id == id);
+            var entry = _repository.GetById(id);
+            return entry;
+        }
+
+        [Route("get/centre/{id}")]
+        [HttpGet]
+        public ActionResult<List<EntryItem>> GetByCentre(int id)
+        {
+            var entries = _repository.GetByCentre(id);
+            return entries;
         }
 
         [Route("add")]
         [HttpPut]
-        public ActionResult Add(EntryItem entry)
+        public ActionResult Add(EntryViewModel entryViewModel)
         {
-            return PerformCrud(entry, EntityState.Added);
+            var entry = CreateEntryObject(entryViewModel);
+            _repository.Add(entry);
+            _repository.UnitOfWork.SaveUnitChanges();
+            return Ok();
         }
 
         [Route("update")]
         [HttpPost]
-        public ActionResult Update(EntryItem entry)
+        public ActionResult Update(EntryViewModel entryViewModel)
         {
-            return PerformCrud(entry, EntityState.Modified);
-        }
-
-        [Route("remove")]
-        [HttpDelete]
-        public ActionResult Remove(EntryItem entry)
-        {
-            return PerformCrud(entry, EntityState.Deleted);
-        }
-
-        private ActionResult PerformCrud(EntryItem entry, EntityState state)
-        {
-            _context.Entries.Attach(entry).State = state;
-            _context.SaveChanges();
+            var entry = CreateEntryObject(entryViewModel);
+            _repository.Update(entry);
+            _repository.UnitOfWork.SaveUnitChanges();
             return Ok();
+        }
+
+        [Route("delete/{id:int}")]
+        [HttpDelete]
+        public ActionResult Delete(int id)
+        {
+            _repository.Delete(id);
+            _repository.UnitOfWork.SaveUnitChanges();
+            return Ok();
+        }
+
+        private EntryItem CreateEntryObject(EntryViewModel entryViewModel)
+        {
+            var entry = new EntryItem
+            {
+                Id = entryViewModel.EntryId
+            };
+
+            entry.AddCentreItem(entryViewModel.CentreId, entryViewModel.CentreName, entryViewModel.CentreAddress);
+            entry.AddSessionItem(entryViewModel.SessionId, entryViewModel.SessionName);
+            entry.AddSubjectItem(entryViewModel.SubjectId, entryViewModel.SubjectName, entryViewModel.SubjectTypeName);
+            entry.AddCandidateItem(entryViewModel.CandidateId, entryViewModel.CandidateName);
+
+            return entry;
         }
     }
 }

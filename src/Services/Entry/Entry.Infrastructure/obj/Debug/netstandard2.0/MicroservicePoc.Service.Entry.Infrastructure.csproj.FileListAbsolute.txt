@@ -1,0 +1,12 @@
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Infrastructure\bin\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Infrastructure.deps.json
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Infrastructure\bin\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Infrastructure.dll
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Infrastructure\bin\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Infrastructure.pdb
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Infrastructure\obj\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Infrastructure\obj\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Infrastructure\obj\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Infrastructure\obj\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Infrastructure.AssemblyInfo.cs
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Infrastructure\obj\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Infrastructure.dll
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Infrastructure\obj\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Infrastructure.pdb
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Infrastructure\bin\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Domain.dll
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Infrastructure\bin\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Domain.pdb
+C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\Entry.Infrastructure\obj\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Infrastructure.csproj.CopyComplete

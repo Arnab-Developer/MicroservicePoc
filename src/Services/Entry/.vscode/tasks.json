@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/MicroservicePoc.Service.Entry.Api.csproj"
+                "${workspaceFolder}/Entry.Api/MicroservicePoc.Service.Entry.Api.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
