@@ -66,15 +66,10 @@ namespace MicroservicePoc.Service.Entry.Api.Controllers
 
         private EntryItem CreateEntryObject(EntryViewModel entryViewModel)
         {
-            var entry = new EntryItem
-            {
-                Id = entryViewModel.EntryId
-            };
-
-            entry.AddCentreItem(entryViewModel.CentreId, entryViewModel.CentreName, entryViewModel.CentreAddress);
-            entry.AddSessionItem(entryViewModel.SessionId, entryViewModel.SessionName);
-            entry.AddSubjectItem(entryViewModel.SubjectId, entryViewModel.SubjectName, entryViewModel.SubjectTypeName);
-            entry.AddCandidateItem(entryViewModel.CandidateId, entryViewModel.CandidateName);
+            var entry = new EntryItem(entryViewModel.EntryId, entryViewModel.CentreId, entryViewModel.CentreName, 
+                entryViewModel.CentreAddress, entryViewModel.SessionId, entryViewModel.SessionName,
+                entryViewModel.SubjectId, entryViewModel.SubjectName, entryViewModel.SubjectTypeName,
+                entryViewModel.CandidateId, entryViewModel.CandidateName);
 
             return entry;
         }
