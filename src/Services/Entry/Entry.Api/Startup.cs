@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using MicroservicePoc.Service.Entry.Infrastructure;
 using MicroservicePoc.Service.Entry.Infrastructure.Repositories;
 using MicroservicePoc.Service.Entry.Domain;
+using Microsoft.Extensions.Hosting;
 
 namespace MicroservicePoc.Service.Entry.Api
 {
@@ -22,13 +23,13 @@ namespace MicroservicePoc.Service.Entry.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddControllers();
             services.AddTransient<IEntryRepository, EntryRepository>();
             services.AddDbContext<EntryContext>(option => option.UseInMemoryDatabase("MicroservicePocEntry"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
             {
@@ -41,7 +42,11 @@ namespace MicroservicePoc.Service.Entry.Api
             }
 
             app.UseHttpsRedirection();
-            app.UseMvc();
+            app.UseRouting();
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
         }
     }
 }
