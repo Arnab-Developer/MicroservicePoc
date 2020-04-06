@@ -1,9 +1,0 @@
-C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\entry.domain\bin\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Domain.deps.json
-C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\entry.domain\bin\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Domain.dll
-C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\entry.domain\bin\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Domain.pdb
-C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\entry.domain\obj\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Domain.csprojAssemblyReference.cache
-C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\entry.domain\obj\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\entry.domain\obj\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Domain.AssemblyInfoInputs.cache
-C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\entry.domain\obj\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Domain.AssemblyInfo.cs
-C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\entry.domain\obj\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Domain.dll
-C:\Users\Arnab\Documents\MicroservicePoc\src\Services\Entry\entry.domain\obj\Debug\netstandard2.0\MicroservicePoc.Service.Entry.Domain.pdb
